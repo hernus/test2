@@ -5,8 +5,9 @@ This is the third line
 This is a new line as part of master mod
 This is a new line as part of mod1
 This is a new line as part of mod1 (and this part is for github)
-This is another new line as part of mod1
 This is another new line (and this part if for github from master)
+This is another new line as part of mod1 (and this part is for github updated from mod1)
+This is another new line
 This is the best way 
 This is another good way
 And one more crazy line
