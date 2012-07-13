@@ -12,3 +12,4 @@ This is the best way
 This is another good way
 And one more crazy line
 A new line specially for GitHub test
+And one more crazy line blah!
